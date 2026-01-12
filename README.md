@@ -60,6 +60,3 @@ Once installed, the App Shortcuts are automatically registered. You can say:
 *   *"Lock screen with [App Name]"*
 *   *"Turn off screen with [App Name]"*
 
-## 📄 License
-
-This project is open source and available under the MIT License.
